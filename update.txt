@@ -1,2 +1,2 @@
 <Version: 1.00>
-<Fin de version>
+<End of Version>
